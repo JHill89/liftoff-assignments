@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I am creating a book tracker app. It will track the books you have read, are reading, or want to read. This gives the user the ability to organise and prioritize books on their radar and the ability to remember books they have read as well as take notes and give final thoughts. It will be very handy because I have forgotten the title and/or author of so many good books that I want to recommend to friends or I want to reread or I really liked the author and want to check out their other books. This will allow the user to save all that information as well as rate the book and save favorite quotes and even to track the page they are on in the book they are currently reading. 
+
+
 ### Features
-Include Features here
+Add Book: Can add a new book (title, author, genre, quotes, etc).
+Edit Book: Can edit an already existing book. Can change the rating, table it belongs to, add quotes.
+Search Bar: Can search through books with a keyword. Can search title, author, genre, or all.
+
+
 ### Technologies
-Include Technologies here
+    Java
+    Spring Boot
+    MySQL
+    Hibernate
+    Thymeleaf templates
+    Javascript
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll need to learn how to incorporate some Javascript to allow more functionality for the user on the front end. I want to make the lists easily sortable to the user.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/3jIUg711/liftoff-capstone-project
+
